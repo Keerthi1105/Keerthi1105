@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karri Keerthi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **UI/UX project**
+- 🔭 I’m currently working on **React project**
 
-- 🌱 I’m currently learning **ReactJs,**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Frontend**
 
